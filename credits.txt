@@ -1,0 +1,12 @@
+Credits
+  Piraterex_updates for base
+* Chru2000 for kernel
+* @hraj9258 for twrp recovery
+* Adx69 (Manager) , @iiir0n for banner 
+* Facerracer4u for help in fixing volte
+* Rishbi , Kakashi , danish_raza , kiril for support
+* Thanks to @Sid069 @Cody47 @NeFeroN for help
+* Thanks to all my testers:-
+   Debasish(full support in testing)
+   @sam5686
+  Harsh , me also
