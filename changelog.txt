@@ -1,0 +1,31 @@
+* Ported from Moto S30 Pro
+   #Phoenix #12
+* Night blade kernel is by default thanks to (@chiru2000)
+* Fixed Bluetooth audio
+* Fixed Volte , Calling ,Sms
+* Fixed internal error dialog
+* By default Google Play services enabled
+* Enabled play store by default
+* Added Google setup ,Google restore and Google sync stuffs
+* Fixed banking apps issues
+* Removed Dolby
+* Added Motorola camera (basic mode working with Moto Watermark
+* Added option to allow downgrade option (enable at your risk )
+* Screenshot in secure apps option added 
+* Hide power menu on lockscreen option added
+* Added some basic customisation like 
+ (i)   Statusbar signal icon styles
+ (ii)  Wifi icon styles
+ (iii)  Signal icon styles
+ (iv)  Volte icon styles
+ (v)  Seekbar styles
+ (vi)  Navigation bar styles
+All of the above customisation can be found under settings/desktop and lockscreen/lockscreen/
+
+* Fixed late / delay in screen on/off
+* Removed fod icon on lockscreen
+* Fixed wrong cpu info bcos of ported from higher device
+* Fixed Statusbar padding
+
+Developer:-Retardpro
+Telegram:-Retardpro
