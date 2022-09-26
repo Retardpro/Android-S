@@ -1,5 +1,27 @@
 * Ported from Moto S30 Pro
-   #Phoenix #12
+   #Phoenix #12 #Myui4.0
+
+####### September Update : 27/09/22 ######
+* Updated to September security patch
+* Safety net passed with & without  root
+* Fixed Alarm bug
+* Added Dolby Atmos back
+* Fixed Dt2s
+* Fixed system update notification
+* Fixed Location toggle 
+* Fixed no ring  sound in vibration mode
+* Fixed no vibration
+* Enabled Nearby share
+* Enabled edge lighting
+* Enabled Full screen apps options
+* Added flicker prevention option
+* Enabled lockscreen Carousel
+* Enabled Air call acceptance
+* Enable pitch black system theme by default
+* Added Moto Fm Radio
+* Fixed power button issue
+
+####### Previous Update : 10/09/22 ######
 * Night blade kernel is by default thanks to (@chiru2000)
 * Fixed Bluetooth audio
 * Fixed Volte , Calling ,Sms
