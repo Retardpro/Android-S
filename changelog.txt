@@ -1,53 +1,72 @@
-* Ported from Moto S30 Pro
-   #Phoenix #12 #Myui4.0
+* MIUISR Cosmic *
 
-####### September Update : 27/09/22 ######
-* Updated to September security patch
-* Safety net passed with & without  root
-* Fixed Alarm bug
-* Added Dolby Atmos back
-* Fixed Dt2s
-* Fixed system update notification
-* Fixed Location toggle 
-* Fixed no ring  sound in vibration mode
-* Fixed no vibration
-* Enabled Nearby share
-* Enabled edge lighting
-* Enabled Full screen apps options
-* Added flicker prevention option
-* Enabled lockscreen Carousel
-* Enabled Air call acceptance
-* Enable pitch black system theme by default
-* Added Moto Fm Radio
-* Fixed power button issue
-
-####### Previous Update : 10/09/22 ######
-* Night blade kernel is by default thanks to (@chiru2000)
-* Fixed Bluetooth audio
-* Fixed Volte , Calling ,Sms
-* Fixed internal error dialog
-* By default Google Play services enabled
-* Enabled play store by default
-* Added Google setup ,Google restore and Google sync stuffs
-* Fixed banking apps issues
-* Removed Dolby
-* Added Motorola camera (basic mode working with Moto Watermark
-* Added option to allow downgrade option (enable at your risk )
-* Screenshot in secure apps option added 
-* Hide power menu on lockscreen option added
-* Added some basic customisation like 
- (i)   Statusbar signal icon styles
- (ii)  Wifi icon styles
- (iii)  Signal icon styles
- (iv)  Volte icon styles
- (v)  Seekbar styles
- (vi)  Navigation bar styles
-All of the above customisation can be found under settings/desktop and lockscreen/lockscreen/
-
-* Fixed late / delay in screen on/off
-* Removed fod icon on lockscreen
-* Fixed wrong cpu info bcos of ported from higher device
-* Fixed Statusbar padding
+####### October Update : 27/10/22 ######
++ System is r/w ,decrypted , performance is riced
++ Updated GPU driver to V655 (thanks to lybxlpsv)
++ Fixed + SafetyNet Passed by default (with and without root both)
++ Google unlimited photos
++ Higher fps on games like bgmi ,codm,mobile legend ,and many more
++ Enable or disable monet systemwide in one click 
++ Fixed monet for volume panel (now monet switch working for volume panel)
++ Fixed package installer crash
++ Added iOS style volume and media player
++ Seekbar paint,shape, stroke, customisation
++ New animation in control center
++ Running line label text
++ Option to hide label of toggles
++ New 3 style power menu for miui13 style , (default,CrimRed,Monet)
++ Added back cn widgets with cn app vault for more features
++ Device is certified now u can use banking apps like gpay and others without any issues
++ Added Leica Camera (Unlocked most of the useful features ,see detailed changelog)
++ Added 15+ Volte style
++ Added 7 style Power menu style (change to old Power menu style)
++ Added Wave Charging animation component color customisation
++ Added Flow Charging animation component color customisation
++ Added option to Replace small 4g icon to large 4g left icon in left side
++ In Volte style many OEM Volte icons added
++ Switch between old and new power menu style (switch to old Power menu to use power menu styles)
++ Added pulse on navbar , lockscreen , control centre customisation (WolfOS Project)
++ You can customise each component of pulse from height ,width of blocks ,color of blocks ,speed of blocks etc and many more
++ Added 90fps screen recording support 
++ Enabled more features in game turbo like 
++ Allow using third party launcher
++ Maximum brightness during call
++ Gms enabled by default ,added Aod with Sr style ,saparate well-being/screen time switch option
++ Added disable custom notification text color option
++ Fixed the issue of volume was not increasing after pressing buttons
++ Added Notification background transparency option
++ Added Notification text color choice 
++ Added remove big notification icon option
++ Incall background transparency added
++ Incall background blur level control adde
++ Vibration device when device is unlocked with fingerprint option can be enabled or disabled
++ Vibrate when device failed to unlock with fingerprint can be enabled or disabled
++ Custom text color of apps in app drawer option added 
++ Added Digital wellbeing and also option in settings
++ Added always on display (prefer 10s aod option if u don't wanna fuck your battery backup and if using aod Don't complaint about battery drain)
++ Notification effect also enabled (find in aod and notification section)
++ Removed 10s waiting time for permission to third party apps
++ Added option to enable/disable Xiaomi account on top(by default disabled
++ Added monet switch on/off for control centre and volume panel separately 
++ Added saparate volume control for system and notification sounds ,go to settings/sounds/
++ Number of big tiles in miui 12.5 type control centre ad each tiles can be selected by your own choice 
++ Switch between Volte and Hd icons 
++ Control centre customisation added 
++ Global animation can be enabled or disabled and animation after unlock can be enabled and disabled also
++ Enabled some special features options (go to settings/special features/)
++ Three style status bar ,Miui-style ,DSB style(thanks to DSB team), SR-style 
++ Fixed Status bar alignment issue due to dual status bar 
++ Switch Control centre to Miui12/Miui13 /Miui13 mod(Miui13 mod style is by default) 
++ Enable/Disable Player and smart hub in Control centre 
++ About phone Redesigned for a better look 
++ Colored notification icons option added (sr_customisation)
++ All notifications app can be removed/disabled now 
++ New Security app, all new features with new UI design are there.
++ Game turbo with all new features like voice changer is available.
++ Added option to Enabled GPU tuner for game turbo
++ Added Google keyboard by default and fixed spacing below keyboard for better experience while typing
++ All changes r not mentioned here 
+Enjoy your stay 
 
 Developer:-Retardpro
 Telegram:-Retardpro
