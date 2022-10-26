@@ -1,11 +1,8 @@
 Credits
-* Chru2000 for kernel
-* @hraj9258 for twrp recovery
-* Adx69 (Manager) , @iiir0n for banner 
-* Neferon for help in fixing Dolby
-* Rishbi , Kakashi , danish_raza , Dell for support
-* Thanks to @Sid069 @Cody47 @Facerracer4u for help
-* Thanks to all my testers:-
-   Debasish(full support in testing)
-   @sam5686
-  Harsh , me also
+* 
+* GPU Driver thanks to lybxlpsv
+* Adx69 (Manager) , 
+* Emillio , Kakashi , Rishi ,Ashik for support
+* Thanks to Leica mod dev
+* Thanks to all my testers and who ever involved in this project
+* Thanks to miuisr team. 
