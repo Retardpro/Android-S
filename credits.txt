@@ -1,8 +1,8 @@
 Credits
 * 
-* GPU Driver thanks to lybxlpsv
-* Adx69 (Manager) , 
-* Emillio , Kakashi , Rishi ,Ashik for support
-* Thanks to Leica mod dev
+* Chiru for kernel
+* Gautam for continue the project and do rest of the stuffs
+* Cody , Kakashi , Rishi ,Dell for support
+* Neoferon for dolby related help
 * Thanks to all my testers and who ever involved in this project
 * Thanks to miuisr team. 
