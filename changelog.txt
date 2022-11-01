@@ -1,7 +1,7 @@
 * Ported from Moto S30 Pro
    #Phoenix #12 #Myui4.0
 
-####### September Update : 27/09/22 ######
+####### September Update : 01/11/22 ######
 * Updated to September security patch
 * Safety net passed with & without  root
 * Fixed Alarm bug
