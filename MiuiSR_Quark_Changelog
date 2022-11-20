@@ -1,6 +1,42 @@
 * MIUISR Quark *
 * Based:- Cn 22.10.24
-####### October Update : 15/11/22 ######
+####### November Update : 20/11/22 ######
+            Hotfix
+Fixes:-
++ Fixed NFC
++ Fixed external sdcard was not 
+   showing in some apps
++ Fixed Charging percentage alignment
++ Fixed aod for vayu
++ Fixed notification led for vayu
++ Fixed slow motion camera
+Addition:-
++ Added option to downgrade
+    apps back
++ Added aosp ripple charging
+    animation
++ Added Screen Recorder back with 90fps option
++ Added many missing tiles in control centre
++ Added charging ampere to
+   lockscreen 
++ Now charging animation style
+    reverted like in eu and fixed
+    charging animation was not
+    turning off in non lockscreen
+Launcher:-
++ Added double tap to sleep
+    option
++ Added app bounce after unlock
+    screen
++ Added bounce folder option
++ Added folder blur option 
++ Added hide apps section
+   in launcher
+Core:-
++ Optimized audio output by
+    adding stuffs from alioth
+
+####### November Update : 15/11/22 ######
 + Enforcing build
 + System is r/w ,decrypted , performance is riced
 + Default Gpu driver (v502)
