@@ -1,9 +1,80 @@
-* MIUISR Quark *
+* MIUISR Quark-II *
 * Based:- Cn 22.10.24
-####### November Update : 20/11/22 ######
+####### November Update : 06/01/23 ######
             Hotfix
 Fixes:-
-+ Fixed NFC
+Update:- 05-01-23
++ Fixed safetynet issue 
++ Fixed enhance keyboard disappear
+   after some times
++ Fixed padding issue of bottom
++ Fixed Mi account crash in theme
+   manager
++ Added Google Feed
++ Added Google search bar option in
+   home
++ Linked assistant and widget choice 
++ Disabled Annoying Chinese swipe
+   up by default , if need select from
+   launcher settings
++ Fixed status bar content hide behind
+   camera 
++ Fixed dual status bar , added back
+   old style again
++ Fixed full screen apps
++ Fixed device info permission for
+   some apps enabled by default (was
+   crashing if not enabled)
++ Added gradient customisation for
+   big tiles , toggles , brightness and
+   volume bar
++ Redo some codes to make some
+   customisation instantly effective
++ Updated camera app and stuffs
++ Settings icons updated ,Underhood
+   changes
+
+****************
++ Fixed full screen mode
++ Fixed individual dark mode
++ Added hi-fi audio option
++ Added Custom audio effect
++ Reverted boot sound , new splash 
++ Updated some apps 
++ Updated monet + added few more
+   apps 
+Fixes:-
++ Fixed Account section Crash
++ Fixed Sound crackle in some
+   scenarios (reverted audio stuffs )
+Addition:-
++ Monet Icons (System apps , some
+   third party apps ,more apps will
+   be updated in future)
++ Now u can switch Between
+   monet light , Monet dark (Mdark)
+   and Coorful icons  , if it doesn't
+   change instantly  then reboot the
+   launcher from settings
++ Added three style miuisr lab for
+   keep stuffs clean and easy to
+   access named (Hierarchy , tabox
+   and Ancient style)
++ Added Battery indicator on status
+   (choose from battery style
+   section)
++ Now u can change the height of
+   indicator , color of indicator in
+   different scenarios like low
+   power ,
+   battery saver , high level
++ Added status bar logo styles ,
+   more than 20+ 
++ Added new bootanimation , boot
+   sound "Hello Poco" , and some ui
+   suund updated
++ Previous Changelog
+20/11/2022
 + Fixed external sdcard was not 
    showing in some apps
 + Fixed Charging percentage alignment
